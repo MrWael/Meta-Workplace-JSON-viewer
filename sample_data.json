@@ -1,70 +1,209 @@
-{
-  "participants": [
-    {
-      "name": "Zuko"
-    },
-    {
-      "name": "Sokka"
-    }
-  ],
-  "messages": [
-    {
-      "sender_name": "Zuko",
-      "timestamp_ms": 1579137191303,
-      "content": "That's rough, buddy.",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Sokka",
-      "timestamp_ms": 1579137103044,
-      "content": "My first girlfriend turned into the moon",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Zuko",
-      "timestamp_ms": 1579137078312,
-      "content": "Everyone in the Fire Nation thinks I'm a traitor, I couldn't drag her into it.",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Zuko",
-      "timestamp_ms": 1579136858575,
-      "content": "Yeah",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Sokka",
-      "timestamp_ms": 1579136847743,
-      "content": "That gloomy girl who sighs a lot?!",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Zuko",
-      "timestamp_ms": 1579136839127,
-      "content": "Well, I did have a girlfriend. Mai.",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Sokka",
-      "timestamp_ms": 1579136837474,
-      "content": "Really? You didn't leave behind anyone you cared about?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Zuko",
-      "timestamp_ms": 1579136836700,
-      "content": "It wasn't that hard",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Sokka",
-      "timestamp_ms": 1579136824886,
-      "content": "I think your uncle would be proud of you, leaving your home to come help us -- that's hard",
-      "type": "Generic"
-    }
-  ],
-  "title": "The Boiling Rock Pt. 1",
-  "is_still_participant": true,
-  "thread_type": "Regular",
-  "thread_path": "inbox/TheBoilingRockPt1_u3hhb2HmZg"
-}
+[
+  {
+    "title": "Group Title",
+    "timestamp": 1733893599,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "ThreadImage",
+        "label": "Image",
+        "media": [
+          {
+            "uri": "messages/photos/234234324237462384.png",
+            "fbid_INTERNAL": 36452873428733,
+            "creation_timestamp": 1000000000,
+            "backup_uri": "https://privateurl"
+          }
+        ]
+      },
+      {
+        "ent_field_name": "PinnedMessageV2IDs",
+        "label": "Pinned messages",
+        "vec": [
+          
+        ]
+      },
+      {
+        "ent_field_name": "MagicWords",
+        "label": "Word effects",
+        "vec": [
+          
+        ]
+      },
+      {
+        "ent_field_name": "IsViewerRoomAdmin",
+        "label": "Are you an admin?",
+        "value": "True"
+      },
+      {
+        "ent_field_name": "JoinableMode",
+        "label": "Join link",
+        "dict": [
+          {
+            "label": "Link",
+            "value": "",
+            "href": ""
+          },
+          {
+            "label": "Privacy",
+            "value": "Private"
+          }
+        ]
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "ent_field_name": "Name",
+                "label": "Name",
+                "value": "Mick Rick"
+              },
+              {
+                "ent_field_name": "ID",
+                "value": "100053453466346"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "ent_field_name": "Name",
+                "label": "Name",
+                "value": "Sam Nam"
+              },
+              {
+                "ent_field_name": "ID",
+                "value": "100053453466345"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Former participants"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Marketplace item"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "ent_field_name": "Name",
+                "label": "Name",
+                "value": "Tom Not"
+              },
+              {
+                "ent_field_name": "ID",
+                "value": "100023543253469"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "ent_field_name": "Name",
+                "label": "Name",
+                "value": "Sarah John"
+              },
+              {
+                "ent_field_name": "ID",
+                "value": "100023543253464"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Participants"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "ent_field_name": "LogMessage",
+                "label": "Message"
+              },
+              {
+                "ent_field_name": "StickerID",
+                "label": "Sticker"
+              },
+              {
+                "ent_field_name": "OriginatingIp",
+                "label": "IP address"
+              },
+              {
+                "ent_field_name": "Body",
+                "label": "Message",
+                "value": "Me talking here, message content"
+              },
+              {
+                "ent_field_name": "ReactionReferences",
+                "label": "Reactions",
+                "vec": [
+                  
+                ]
+              },
+              {
+                "ent_field_name": "ReplyType",
+                "label": "Replying to",
+                "value": "He talking here, message content"
+              },
+              {
+                "ent_field_name": "Transcription",
+                "label": "Transcription"
+              },
+              {
+                "ent_field_name": "TakedownState",
+                "label": "Unavailable"
+              },
+              {
+                "dict": [
+                  
+                ],
+                "title": "Attachment"
+              },
+              {
+                "ent_field_name": "Name",
+                "label": "Name",
+                "value": "Jim Tim"
+              },
+              {
+                "ent_field_name": "SenderID",
+                "value": "45364356456754"
+              },
+              {
+                "dict": [
+                  
+                ],
+                "title": "Soundmoji"
+              },
+              {
+                "ent_field_name": "ID",
+                "value": "mid.$gAAy_wwDcqgWaGxqFv2T6dSNRIMbl"
+              },
+              {
+                "ent_field_name": "MessagesTimestamp",
+                "timestamp_value": 1734794886
+              }
+            ],
+            "title": ""
+          }
+
+
+        ],
+        "title": "Messages"
+      }
+    ],
+    "fbid": "12245435345345345",
+    "ent_name": "EntMessengerViewer1To1WorkchatThread"
+  }
+]
