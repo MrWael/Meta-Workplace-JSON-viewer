@@ -11,6 +11,7 @@ button {
 }
 body {
     margin: 0;
+    font-family: Arial, sans-serif;
 }
 
 p, label {
